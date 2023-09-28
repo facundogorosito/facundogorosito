@@ -10,6 +10,11 @@ const facundogorosito = {
 ```
 
 
+ You can find me 🌎:
+ - [Linkedin] (https://www.linkedin.com/in/facundo-gorosito-desarrollador-web-html5-csss3-javascript-react-frontend/)
+ - [Facebook] ()
+ - [Instagram] ()
+
 
 
 Here are some ideas to get you started:
