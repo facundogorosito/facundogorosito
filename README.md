@@ -5,6 +5,13 @@
 <!--
 **facundogorosito/facundogorosito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, , Styled-Components, Jest, Docker]
+}
+```
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
