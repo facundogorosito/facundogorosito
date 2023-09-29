@@ -13,6 +13,10 @@ You can find me 🌎:
 [![Linkedin: Facundo.Gorosito](https://img.shields.io/badge/-Facundo.Gorosito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/facundo-gorosito-desarrollador-web-html5-csss3-javascript-react-frontend/)](https://www.linkedin.com/in/facundo-gorosito-desarrollador-web-html5-csss3-javascript-react-frontend/)
 
 
+[![GitHub F.Gorosito](https://img.shields.io/github/followers/facundo?label=follow&style=social)](https://github.com/facundogorosito)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
