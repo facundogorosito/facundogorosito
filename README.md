@@ -24,5 +24,5 @@ const facundogorosito = {
 - An ML & Open Source enthusiast.
 - Front End Developer Student. 
 - Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- I'm looking for opportunities. I love to learn and contribute in any and every possible way.
 
