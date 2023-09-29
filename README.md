@@ -8,13 +8,9 @@ const facundogorosito = {
   tools: [React, Redux, Node, , Styled-Components, Jest, Docker]
 }
 ```
-
-
- You can find me 🌎:
- - [Linkedin] (https://www.linkedin.com/in/facundo-gorosito-desarrollador-web-html5-csss3-javascript-react-frontend/)
- - [Facebook] ()
- - [Instagram] ()
-
+You can find me 🌎:
+-
+[![Linkedin: Facundo.Gorosito](https://img.shields.io/badge/-Facundo.Gorosito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/facundo-gorosito-desarrollador-web-html5-csss3-javascript-react-frontend/)](https://www.linkedin.com/in/facundo-gorosito-desarrollador-web-html5-csss3-javascript-react-frontend/)
 
 
 Here are some ideas to get you started:
