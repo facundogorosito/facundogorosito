@@ -1,4 +1,4 @@
-### Hola World! 👋 🧑‍💻
+### Hi World! 👋 🧑‍💻
 
 ```javascript
 const facundogorosito = {
@@ -18,9 +18,7 @@ const facundogorosito = {
 <a href="mailto:facundoignaciogorosito@gmail.com">
   <img align="left" alt="Facundo Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />
 </a>
-
 <br />
-
 
 ### I am Facundo
 - An ML & Open Source enthusiast.
