@@ -1,5 +1,4 @@
-### Hola, mi nombre es Facundo 👋 🧑‍💻
-  
+### Hola World! 👋 🧑‍💻
 
 ```javascript
 const facundogorosito = {
@@ -8,25 +7,24 @@ const facundogorosito = {
   tools: [React, Redux, Node, , Styled-Components, Jest, Docker]
 }
 ```
-You can find me 🌎:
--
-[![Linkedin: Facundo.Gorosito](https://img.shields.io/badge/-Facundo.Gorosito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/facundo-gorosito-desarrollador-web-html5-csss3-javascript-react-frontend/)](https://www.linkedin.com/in/facundo-gorosito-desarrollador-web-html5-csss3-javascript-react-frontend/)
+## You can find me 🌎:
+
+<a href="https://www.linkedin.com/in/facundo-gorosito-desarrollador-web-html5-csss3-javascript-react-frontend/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/facundogorosito">
+  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="mailto:facundoignaciogorosito@gmail.com">
+  <img align="left" alt="Facundo Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />
+</a>
+
+<br />
 
 
-[![GitHub F.Gorosito](https://img.shields.io/github/followers/facundo?label=follow&style=social)](https://github.com/facundogorosito)
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### I am Facundo
+- An ML & Open Source enthusiast.
+- Front End Developer Student. 
+- Currently working on some of my cool side projects based on Web Development and Machine Learning.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
