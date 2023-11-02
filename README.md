@@ -1,6 +1,6 @@
 ### Hi World! 👋 🧑‍💻
 
-<img width="35%" align="right" alt="Github" src="https://img.freepik.com/fotos-premium/pequeno-gato-disfrazado_577526-428.jpg" />
+<img width="35%" align="right" alt="Github" src="[https://img.freepik.com/fotos-premium/pequeno-gato-disfrazado_577526-428.jpg](https://img.freepik.com/fotos-premium/gato-traje-sienta-escritorio-frente-pantalla-computadora-que-dice-gato_245570-363.jpg)" />
 
 
 ```javascript
