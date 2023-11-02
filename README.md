@@ -1,7 +1,8 @@
 ### Hi World! 👋 🧑‍💻
 
-<img width="35%" align="right" alt="Github" src="[https://img.freepik.com/fotos-premium/pequeno-gato-disfrazado_577526-428.jpg](https://img.freepik.com/fotos-premium/gato-traje-sienta-escritorio-frente-pantalla-computadora-que-dice-gato_245570-363.jpg)" />
+<img width="35%" align="right" alt="Github" src="https://media.licdn.com/dms/image/D4E22AQEG29d5y6tADw/feedshare-shrink_2048_1536/0/1694461214812?e=1698883200&v=beta&t=5vB-t6U784Mipb5rkNRyah3FQEElsE84mPa2CMSIVvM" />
 
+https://media.licdn.com/dms/image/D4E22AQEG29d5y6tADw/feedshare-shrink_2048_1536/0/1694461214812?e=1698883200&v=beta&t=5vB-t6U784Mipb5rkNRyah3FQEElsE84mPa2CMSIVvM
 
 ```javascript
 const facundogorosito = {
